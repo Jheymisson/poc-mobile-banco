@@ -1,0 +1,21 @@
+### Logs ###
+test-report/
+selenium_standalone*
+reports/
+wdio-appium.log
+
+### Node ###
+node_modules/
+yarn-error.log
+
+### IDE ###
+.DS_Store
+.vscode
+.idea
+
+### Zalenium ###
+videos/
+
+### Apps ###
+apps/
+dist/
